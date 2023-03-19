@@ -1,0 +1,2 @@
+# GuessTheNumberGame
+標準的なストリームについて理解するためのプログラム
